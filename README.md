@@ -17,8 +17,8 @@
 * ` **Having FUN EVERY MINUTES**`
 * ` **If you have question, bugs, report, My Discord : got u#7618**`
 
-> **DO NOT** Installing W-Sender From Anyother Place Than This Page, Expect it be **Hacked/Scammed.**
-> Download HERE ONLY > https://github.com/wsuchwalt
+> !?!?!? **DO NOT** Installing W-Sender From Anyother Place Than This Page, Expect it be **Hacked/Scammed.** !?!?!?
+> Download HERE ONLY (or my website) : https://github.com/wsuchwalt
 
 
 #### > ★  Installation  ★
