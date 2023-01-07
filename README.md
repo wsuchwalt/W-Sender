@@ -1,4 +1,4 @@
-![W Sender Logo](https://user-images.githubusercontent.com/122167346/211160477-219ba3a0-7797-44d2-8a63-6e58622ea76f.png)
+![W Sender Logo](https://user-images.githubusercontent.com/122167346/211168735-d8cc2e4a-f198-465a-aea3-3a880aa59821.png)
 
 ---
 
