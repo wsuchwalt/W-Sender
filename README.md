@@ -38,8 +38,9 @@
 
 ## **★    END     ★**
 
-
-
+<img alt="WSender-LogoMini" src="https://user-images.githubusercontent.com/122167346/211168715-e60694a1-920f-4b88-b881-a5a241e00ba5.png" width="90%">
+&nbsp; &nbsp; &nbsp; &nbsp;
+</p>
 <h1 align="center">
   <a id="top"></a>👁 Becareful.. W-Sender IS HERE ! 👁
 </h1>
