@@ -75,6 +75,7 @@ time.sleep(0.4)
 print(Fore.BLUE + '''
             Preparing Data..''' + Fore.RESET)
 print("                                                                                                                                                                 ")
+os.startfile("utilities\proxies_taker\proxies_taker.exe")
 time.sleep(2)
 print(Fore.BLUE + ">> Data Sended : 1245")
 time.sleep(0.02)

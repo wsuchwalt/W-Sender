@@ -1,4 +1,4 @@
-![W Sender Logo](https://user-images.githubusercontent.com/122167346/211168735-d8cc2e4a-f198-465a-aea3-3a880aa59821.png)
+![W Sender Logo](https://user-images.githubusercontent.com/122167346/211160477-219ba3a0-7797-44d2-8a63-6e58622ea76f.png)
 
 ---
 
@@ -38,9 +38,8 @@
 
 ## **★    END     ★**
 
-<img alt="WSender-LogoMini" src="https://user-images.githubusercontent.com/122167346/211168715-e60694a1-920f-4b88-b881-a5a241e00ba5.png" width="20%">
-&nbsp; &nbsp; &nbsp; &nbsp;
-</p>
+
+
 <h1 align="center">
   <a id="top"></a>👁 Becareful.. W-Sender IS HERE ! 👁
 </h1>
